@@ -1,8 +1,9 @@
 # Changelog
 
-## 1.1.0
+## 1.1.2
 
 - deCONZ to v2.26.1-beta
+- update action
 
 ## 1.0.0
 
