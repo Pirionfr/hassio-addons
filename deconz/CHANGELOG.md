@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.0
+
+- deCONZ to v2.30.2
+
 ## 1.4.1
 
 - deCONZ to v2.29.5
