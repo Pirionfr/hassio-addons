@@ -1,6 +1,9 @@
 # Changelog
 ## 1.7.0
 
+- fix actions
+## 1.7.0
+
 - bump deCONZ to v2.32.5
 ## 1.6.0
 
