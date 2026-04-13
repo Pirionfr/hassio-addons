@@ -1,5 +1,5 @@
 # Changelog
-## 1.7.0
+## 1.7.2
 
 - fix actions
 ## 1.7.0

@@ -1,4 +1,4 @@
-version: 1.7.0
+version: 1.7.2
 slug: deconz
 name: deCONZ
 description: Control a Zigbee network with ConBee or RaspBee by Dresden Elektronik
@@ -7,7 +7,7 @@ apparmor: false
 arch:
   - amd64
   - armhf
-  - aarch64
+  - arm64
 backup_exclude:
   - "*/otau"
 devices:
