@@ -6,8 +6,7 @@ url: https://github.com/Pirionfr/hassio-addons/tree/main/deconz
 apparmor: false
 arch:
   - amd64
-  - armhf
-  - arm64
+  - aarch64
 backup_exclude:
   - "*/otau"
 devices:
